@@ -70,7 +70,6 @@ int solve(int grid[N][N]) {
 			grid[row][col] = UNASSIGNED;
 		}
 	}
-	
 	return 0;
 }
 
